@@ -1,0 +1,6 @@
+{
+  "name": "Smart Split Bill",
+  "description": "Smart Bill Splitting, Smart Bill Printing, and Group Expense Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
